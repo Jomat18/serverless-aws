@@ -28,6 +28,6 @@
 
 ![Resultados](capturas/delete.png?raw=true)
 
-## Iniciar el Deploy:
+## Remover:
 
 ![Resultados](capturas/remove.png?raw=true)
